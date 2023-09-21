@@ -12,7 +12,7 @@ This is a simple calculator application built using Vue.js. It allows users to p
    
 2. Navigate to the project directory:
    ```bash
-      cd vue-calculator
+      cd Calculator-app
 3. Install the project dependencies:
    ```bash
       npm install 
