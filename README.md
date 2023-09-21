@@ -18,8 +18,9 @@ This is a simple calculator application built using Vue.js. It allows users to p
       npm install 
 4. Start the development server
    ```bash
-   npm run serve
-5. Open your web browser and visit http://localhost:8080 to access the calculator application.
+   npm run dev
+   
+5. Open your web browser and visit http://localhost:3000 to access the calculator application.
 6. Use the calculator to perform calculations, and you can toggle to the history mode to view your calculation history.
 
 ## Features
