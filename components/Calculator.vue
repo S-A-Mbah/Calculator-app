@@ -295,6 +295,7 @@ export default defineComponent({
 
 .calculator {
   max-width: 300px;
+  min-width: 300px;
   margin: 0 auto;
   text-align: center;
 }
