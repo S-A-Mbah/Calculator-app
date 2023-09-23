@@ -25,20 +25,20 @@ This is a simple calculator application built using Vue.js. It allows users to p
 
 ## Features
 
-Addition, subtraction, multiplication, and division operations.
-Display of the current expression and result.
-Calculation history in a separate mode.
-Keyboard support for input and calculations.
+- Addition, subtraction, multiplication, and division operations.
+- Displays the current expression and result.
+- Calculation history in a separate mode.
+- Keyboard support for input and calculations.
 
 ## Keyboard Shortcuts
 
 The calculator supports the following keyboard shortcuts:
 
-Numbers: You can enter numbers using your keyboard.
-Operators: Use +, -, *, and / for addition, subtraction, multiplication, and division.
-Equals: Press Enter or = to calculate the result.
-Clear: Press Esc to clear the display.
-Erase: Press Backspace to erase the last number or character
+- Numbers: You can enter numbers using your keyboard.
+- Operators: Use +, -, *, and / for addition, subtraction, multiplication, and division.
+- Equals: Press Enter or = to calculate the result.
+- Clear: Press Esc to clear the display.
+- Erase: Press Backspace to erase the last number or character
 
 ## Built With
 
